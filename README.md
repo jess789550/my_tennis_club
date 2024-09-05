@@ -235,3 +235,16 @@ python manage.py dbshell
 23 directories, 171 files
 
 ```
+
+
+## Notes
+
+* my_tennis_club is the project
+* members is the app
+* models.py contains information about each table in the database
+* views.py consists of functions that get the information
+* templates displays the information from views.py
+* urls.py defines the endpoint where the template is displayed
+
+
+
